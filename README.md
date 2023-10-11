@@ -1,3 +1,3 @@
-# Efficienza Thread Singoli contro Thread Pool
+# Single Thread Efficiency vs. Thread Pool Efficiency
 
-Esperimento svolto per analizzare le differenze di efficienza tra l'utilizzo di un numero $n$ di thread singoli che svolgono tutti la stessa task (in questo caso la conta dei numeri primi da 1 a 10.000.000) e l'utilizzo di un thread pool composto $k$ thread a cui vengono assegnate $n$ task da svolgere.
+An experiment conducted to analyze the efficiency differences between using a set number $n$ of individual threads, all performing the same task (in this case, counting prime numbers from 1 to 10,000,000), and employing a thread pool consisting of $k$ threads to which $n$ tasks are assigned for execution.
